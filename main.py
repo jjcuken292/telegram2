@@ -9,7 +9,7 @@ API_HASH = os.environ['API_HASH']
 PHONE_NUMBER = os.environ['PHONE_NUMBER']
 
 # Список груп
-GROUPS = ['@Crypto_Affiliate_eng', '@fortraffic', '@LeadsAreUs', '@affmktcity', '@affiliate_marketing_hub', '@blackhat_forever', '@wiseaffiliate', '@delta_fx_crypto_board', '@trafficforyou', '@enalltrafficgroupchat', '@looking_for_offers', '@dark_side_affiliate_offers', '@affhub_collab', '@affcommunity']
+GROUPS = ['@Crypto_Affiliate_eng', '@fortraffic', '@LeadsAreUs', '@affmktcity', '@affiliate_marketing_hub', '@blackhat_forever', '@wiseaffiliate', '@delta_fx_crypto_board', '@trafficforyou', '@enalltrafficgroupchat', '@looking_for_offers', '@dark_side_affiliate_offers', '@affhub_collab', '@affcommunity' '@forex_and_crypto_leads_board', '@AffiliateChat', '@thegodsforexcrypto', '@affiliatecryptoconference', '@affiliatebro', '@affiliatecryptoconference', '@trafficforeveryone', '@TrafficPlaceMarket', '@GodsOfFx', ]
 
 # Текст повідомлення
 MESSAGE = """🚀 WHO NEEDS HIGH-QUALITY LIVE LEADS? 🚀
@@ -17,27 +17,24 @@ MESSAGE = """🚀 WHO NEEDS HIGH-QUALITY LIVE LEADS? 🚀
 
 📌 Top countries I work with:
 
+
+🇳🇱 Netherlands
 🇩🇪 Germany
+🇨🇭 Switzerland
+🇬🇧 United Kingdom
 🇫🇷 France
 🇮🇹 Italy
 🇪🇸 Spain
-🇳🇱 Netherlands
 🇸🇪 Sweden
 🇳🇴 Norway
 🇩🇰 Denmark
-🇨🇭 Switzerland
-🇬🇧 United Kingdom
 🇧🇪 Belgium
 🇦🇹 Austria
 🇫🇮 Finland
 🇵🇱 Poland
-🇨🇿 Czech Republic
-🇵🇹 Portugal
-🇮🇪 Ireland
-🇬🇷 Greece
-🇸🇰 Slovakia
 🇨🇦 Canada
 🇦🇺 Australia
+and many more
 
 🔥 Let’s get started—DM me now for details! 📩💸"""  # Ваш текст
 
