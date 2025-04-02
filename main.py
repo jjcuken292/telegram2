@@ -12,7 +12,7 @@ PHONE_NUMBER = os.environ['PHONE_NUMBER']
 GROUPS = ['@Crypto_Affiliate_eng', '@fortraffic', '@LeadsAreUs', '@affmktcity', '@affiliate_marketing_hub', '@blackhat_forever', '@wiseaffiliate', '@delta_fx_crypto_board', '@trafficforyou', '@enalltrafficgroupchat', '@looking_for_offers', '@dark_side_affiliate_offers', '@affhub_collab', '@affcommunity', '@forex_and_crypto_leads_board', '@AffiliateChat', '@thegodsforexcrypto', '@affiliatecryptoconference', '@affiliatebro', '@affiliatecryptoconference', '@trafficforeveryone', '@TrafficPlaceMarket', '@GodsOfFx', ]
 
 # Текст повідомлення
-MESSAGE = """🚀 WHO NEEDS HIGH-QUALITY LIVE LEADS? 🚀
+MESSAGE = """🚀 WHO NEEDS HIGH-QUALITY LIVE TRAFFIC? 🚀
 💰 Looking for fresh, real-time leads that actually convert? I’ve got top-tier traffic across multiple geos and flexible deals to match your needs. Whether you're after exclusive leads or high-intent traffic, I’ve got you covered! 💯
 
 📌 Top countries I work with:
